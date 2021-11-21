@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+## Defines thr function makecachematrix and evaluate its inverse
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
   set <- function(y) {
